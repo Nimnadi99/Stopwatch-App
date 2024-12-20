@@ -35,8 +35,8 @@
 
 <br/>
 <h3>📸 Screenshots</h3>
-<img src="https://github.com/Nimnadi99/Stopwatch-App/blob/main/a.png" alt="Screenshot 1" width="400">
-<img src="https://github.com/Nimnadi99/Stopwatch-App/blob/main/b.png" alt="Screenshot 2" width="400">
+<img src="https://github.com/Nimnadi99/Stopwatch-App/blob/master/a.png" alt="Screenshot 1" width="400">
+<img src="https://github.com/Nimnadi99/Stopwatch-App/blob/master/b.png" alt="Screenshot 2" width="400">
 
 <br/>
 <h3>🙏 Acknowledgments<br/></h3>
